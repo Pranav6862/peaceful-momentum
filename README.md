@@ -23,7 +23,7 @@ progress — and resets each morning, encouraging you to show up again.
 - **Daily reset** — Fresh start every morning. Your streak stays. The pressure doesn't.
 - **Task lifespan** — Give tasks a life of 1 day, 3 days, a week, or none
 - **Forgotten drawer** — Let go tasks rest here quietly, never hard deleted
-- **Energy tags** — Label tasks by energy type, not just priority
+- **Energy tags** — Label tasks by energy type, not just the priority
 - **Momentum streak** — A gentle count of days you showed up
 - **Dark mode** — Soft on the eyes at any hour
 
